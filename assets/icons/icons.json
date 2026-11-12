@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/maria-angelopoulou-logo-icon.svg"
+ },
+ "source_md5": "b920bfd72b31259251ff2010ee1d7f63",
+ "version": "b5c7ecb9",
+ "tile": "#6B2129",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "824aa6acb5baa12437da1861c7ae4392"
+ ],
+ "made": "2026-11-12"
+}
